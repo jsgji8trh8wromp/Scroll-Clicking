@@ -1,12 +1,12 @@
 {
-	"geode": "4.8.0",
+	"geode": "5.7.1",
 	"gd": {
-		"win": "2.2074",
-		"mac": "2.2074"
+		"win": "2.2081",
+		"mac": "2.2081"
 	},
 	"id": "silverstar.scroll_clicking",
 	"name": "Scroll Clicking",
-	"version": "v2.1.1",
+	"version": "v2.1.2",
 	"developers": [
 		"SILVERSTAR",
 		"HexCodesGMD"
